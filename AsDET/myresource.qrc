@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../XCAN_Pro/XCAN_Pro/resources/weixi.PNG</file>
+    </qresource>
+</RCC>
